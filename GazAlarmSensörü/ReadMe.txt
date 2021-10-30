@@ -1,0 +1,2 @@
+-Şemayı açmak için Fritzing programına ihtiyaç vardır.
+-MQ-2 Sensörünü kullanmak için gerekli library rar dosyası halindedir

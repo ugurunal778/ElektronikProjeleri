@@ -1,0 +1,2 @@
+-Schema klasörü içerisinde projenin genel çizimleri bulunmaktadır
+-ReadBillAcceptor Klasöründe ise Arduino içerisine kurulacak program bulunmaktadır

@@ -1,0 +1,1 @@
+BağlantıŞeması Fritzing programı üzerinden açılabilir. Dokümantasyon içerisinde gerekli bilgiler verilmiştir

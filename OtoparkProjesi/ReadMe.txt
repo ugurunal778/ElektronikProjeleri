@@ -1,0 +1,2 @@
+-BasitOtopark projesi 1602 LCD display ile kapalı biçimde çalışacak şekilde ayarlanmıştır
+-ComplexOtopark ise Seri Port üzerinden veri gönderip daha sonradan o veri işlenecek şekilde ayarlanmıştır
