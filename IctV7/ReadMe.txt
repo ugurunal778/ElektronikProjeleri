@@ -1,2 +1,2 @@
--Schema klasörü içerisinde projenin genel çizimleri bulunmaktadır, Bağlantı Şeması ISIS, PCB şeması ise ARES Üzerinde yapılmıştır
+-Schema klasörü içerisinde projenin genel çizimleri bulunmaktadır. Bağlantı Şeması ISIS, PCB şeması ise ARES Üzerinde yapılmıştır
 -ReadBillAcceptor Klasöründe ise Arduino içerisine kurulacak program bulunmaktadır
